@@ -1,9 +1,7 @@
----
----
-
-
-$font-size-base: 17px;
-$headings-font-weight: 600;
-$blockquote-font-size: $font-size-base;
+//$font-size-base: 17px;
+//$headings-font-weight: 600;
+//$blockquote-font-size: $font-size-base;
     
 @import "bootstrap/variables";
+@import "clean-blog-theme/clean-blog.css";
+@import "font-awesome/font-awesome";

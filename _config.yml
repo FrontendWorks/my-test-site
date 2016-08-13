@@ -21,6 +21,6 @@ github_username:  jekyll
 markdown: kramdown
 sass:
   sass_dir: _sass
-  style: compressed
+  #style: compressed
 gems:
   - jekyll-sitemap
